@@ -1,8 +1,8 @@
 print("hello Rohit")
 
-def bol(text):
+def konsiChai(text):
     print(text)
 
 
 
-bol("Web development")
+konsiChai("lemon")

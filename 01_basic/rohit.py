@@ -1,2 +1,2 @@
-from chai import bol
-bol("yadav")
+from chai import konsiChai
+konsiChai("Adark chai")
