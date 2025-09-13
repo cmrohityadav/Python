@@ -26,9 +26,16 @@ source myenv/bin/activate
 deactivate
 
 ```
-
+### Install dependencies
 pip install -r requirements.txt
 pip list
+
+
+## Oraganize your python code
+![Organize](/images/image.png)
+
+![modules and packages](/images/image2.png)
+
 
 
 
