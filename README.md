@@ -36,6 +36,25 @@ pip list
 
 ![modules and packages](/images/image2.png)
 
+## Object and Mutability
+- Everything is object in python
+![alt text](image3.png)
+![alt text](image4.png)
+### Object
+- Object having
+    1. identity
+    2. Type
+    3. Value
+
+**Mutable**
+- Changeable
+
+**Immutable**
+- Not Changeable
+
+
+
+
 
 
 
